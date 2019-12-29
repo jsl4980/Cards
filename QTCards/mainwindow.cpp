@@ -12,3 +12,9 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+
+// As a user I would like to:
+//  - Start a new game
+//  - Play a turn
+//  - See deck size
+//  - Watch turn
